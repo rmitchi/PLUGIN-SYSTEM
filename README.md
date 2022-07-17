@@ -1,2 +1,11 @@
-# PLUGIN-SYSTEM
-Software architecture where every component is plugin that be loaded and changed in run time. We can utilize this thing on softwares that have plugin features very often.
+# ARMADILLO
+### v1.0.0
+## by Variance Technologies pvt. ltd.
+
+## FEATURES
+- Live execution
+- Backtesting
+- Optimization
+
+## LICENCE
+BSD
